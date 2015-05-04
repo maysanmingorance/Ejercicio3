@@ -1,2 +1,6 @@
 Conflicto local
+HEAD
 Modificación local
+
+ModificaciÃ³n en red
+be626ffb79cc319020187d3e8805b40f192ef9e5
